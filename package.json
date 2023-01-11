@@ -40,7 +40,7 @@
     "@nerdenough/mjml-ncc-bundle": "^1.1.1",
     "@sendgrid/mail": "^6.4.0",
     "dashjs": "^3.1.1",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "lodash": "^4.17.15",
     "mjml": "^4.4.1",
     "next": "^9.4.4",
